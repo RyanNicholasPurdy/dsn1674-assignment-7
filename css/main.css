@@ -10,4 +10,7 @@ body{
 /* Gets rid of the space around the website between the main elements and the browser */
 
 header{
+  background-image: url("../images/beetles.svg"), url("../images/beetles.svg"), url("../images/waves.png");
+  background-size: 75px auto, 75px auto, 250px auto;
+
 }
