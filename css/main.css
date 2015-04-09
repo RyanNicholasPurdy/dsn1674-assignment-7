@@ -18,6 +18,7 @@ header{
   background-position: right 25px, left 25px, left top;
   display: block;
 }
+/* Inputs the background image with the two beetles with no repeat, sets the size, and sets the allignment */
 
 h1{
   text-align: center;
@@ -27,16 +28,31 @@ h1{
   color: #512200;
   padding-bottom: 0.5em;
 }
+/* Alligns the title to the center, changes the colour to the same colour as the beetle icons, bolds text */
 
 nav{
   float: left;
+  overflow: hidden;
+  width: 100%;
 }
+/* Makes the nav allign left */
 
 nav ol{
+  margin: 0;
+  overflow: hidden;
+  list-style-type: none;
+  padding: 0;
 }
+/* Forces the list to span edge to edge */
 
 nav li{
+  float:left;
+  width: 25%;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
 }
+/* Alligns the text to the center with the individual width of 25%, which makes the 4 items span edge to edge */
 
 nav a{
 }
