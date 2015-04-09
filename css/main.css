@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Dosis', sans-serif;
+}
+/* Makes all type within the website switch to the linked google font */
+
+body{
+  margin: 0;
+}
+/* Gets rid of the space around the website between the main elements and the browser */
+
+header{
+}
