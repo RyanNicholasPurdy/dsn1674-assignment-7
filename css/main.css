@@ -12,5 +12,18 @@ body{
 header{
   background-image: url("../images/beetles.svg"), url("../images/beetles.svg"), url("../images/waves.png");
   background-size: 75px auto, 75px auto, 250px auto;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-repeat: no-repeat, no-repeat, repeat;
+  background-position: right 25px, left 25px, left top;
+  display: block;
+}
 
+h1{
+  text-align: center;
+  margin: 0;
+  font-size: 3em;
+  font-weight: bold;
+  color: #512200;
+  padding-bottom: 0.5em;
 }
