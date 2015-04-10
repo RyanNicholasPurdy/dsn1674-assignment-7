@@ -89,3 +89,30 @@ nav li:hover{
   margin: 0;
   text-align: center;
 }
+
+.image{
+  width: 50%;
+float: left;
+position: relative;
+}
+
+.left{
+  float: left;
+  width: 100%;
+}
+
+.right{
+  float: left;
+  width: 100%;
+}
+
+.left-2{
+  clear: both;
+  float: left;
+  width: 100%;
+}
+
+.right-2{
+  float: left;
+  width: 100%;
+}
