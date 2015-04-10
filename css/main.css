@@ -55,4 +55,19 @@ nav li{
 /* Alligns the text to the center with the individual width of 25%, which makes the 4 items span edge to edge */
 
 nav a{
+  text-align: center;
+  display: block;
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+  padding: 0.87em;
+  background-color: #512200;
+  opacity: 0.50;
 }
+/* Creates a brown bar around the centered text */
+
+nav li:hover{
+  background-color: #512200;
+  opacity: 0.80;
+}
+/* Changes the colour of the buttons when hovered over */
