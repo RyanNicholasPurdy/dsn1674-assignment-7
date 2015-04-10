@@ -71,3 +71,12 @@ nav li:hover{
   opacity: 0.80;
 }
 /* Changes the colour of the buttons when hovered over */
+
+.text-body{
+  background-image: url("../images/dirt.jpg");
+  background-size: 100%;
+  padding-top: 9em;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
